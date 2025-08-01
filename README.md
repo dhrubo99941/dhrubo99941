@@ -57,7 +57,7 @@ You can embed GitHub statistics (such as commit activity and top languages) to v
 These dynamic images update automatically and make your profile more engaging.
 
 ## 💬 Let’s Connect
-I’m always interested in networking and collaboration.  Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or send me an email at `your-email@example.com` (replace with your contact).  I’m open to discussing data projects, freelance opportunities and full‑time roles.
+I’m always interested in networking and collaboration.  Feel free to reach out via linkedin.com/sham.dhrub or send me an email at `shams.dhrub@gmail.com`.  I’m open to discussing data projects and full‑time roles.
 
 ---
 
@@ -68,5 +68,3 @@ A well‑crafted portfolio is often the differentiator in the competitive data�
 - **Use storytelling:** describe the problem, your approach, and the insights gained【361532396351784†L360-L367】.
 - **Maintain visual appeal:** use clean formatting and consistent design for repositories【361532396351784†L377-L392】.
 - **Seek feedback:** engage with the GitHub community to refine your work【361532396351784†L392-L406】.
-
-By following these guidelines, your GitHub profile will project a **forward‑thinking, professional brand** and showcase your readiness for data‑analyst roles.
