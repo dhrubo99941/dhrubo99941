@@ -33,8 +33,6 @@ project-name/
 └── requirements.txt   # Dependencies for reproduction
 ```
 
-Documentation ensures collaborators and recruiters can understand and run your work.  According to HackerNoon, *the README file is the first item reviewers examine* and should explain what the project does, how to install dependencies and how to use it【638160750600534†L24-L55】.
-
 ## 📊 Tools & Technologies
 I work with a range of analytical tools:
 
@@ -45,16 +43,6 @@ I work with a range of analytical tools:
 
 ## 📌 Pinned Repositories
 GitHub allows you to **pin repositories** on your profile so visitors see your most relevant work first【25125218451945†L105-L111】.  I have pinned my top projects (listed above) to highlight my strongest analytics work.
-
-## 📈 GitHub Stats
-You can embed GitHub statistics (such as commit activity and top languages) to visually showcase your contributions.  For example:
-
-```markdown
-![Dhrubo’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrubo99941&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo99941&layout=compact)
-```
-
-These dynamic images update automatically and make your profile more engaging.
 
 ## 💬 Let’s Connect
 I’m always interested in networking and collaboration.  Feel free to reach out via linkedin.com/sham.dhrub or send me an email at `shams.dhrub@gmail.com`.  I’m open to discussing data projects and full‑time roles.
