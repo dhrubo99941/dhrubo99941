@@ -1,4 +1,4 @@
-# 👋 Welcome to My Data Analyst Portfolio
+# 👋 Welcome to My Portfolio
 
 Hello! I'm **Dhrubo**, an aspiring **data analyst** based in *Niagara Falls, Ontario.*  
 I thrive on **turning data into actionable insights** and enjoy building analytical solutions that solve real‑world problems. My goal is to blend technical expertise with business acumen to support data‑driven decision‑making.
