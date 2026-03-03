@@ -9,7 +9,7 @@ I thrive on **turning data into actionable insights** and enjoy building analyti
 - **Business Orientation:**  I align analytical work with business objectives and communicate findings through clear storytelling.
 
 ## ⭐️ Highlight Projects
-Below are some representative projects that showcase my analytical capabilities.  Each project repository includes a README describing the **problem context, data sources, techniques used, results and insights**—a structure recommended by leading portfolio guides.
+Below are some representative projects that showcase my analytical capabilities.  Each project repository includes a README describing the **problem context, data sources, techniques used, results and insights**
 
 | Project | Description | Key Skills |
 |--------|------------|------------|
